@@ -1,0 +1,5 @@
+[
+  {"id":"1","nombre":"Martin Martinez","email":"martin@tiendareact.com","puesto":"Desarrollo web","foto":"https://i.pravatar.cc/240?img=12"},
+  {"id":"2","nombre":"Fernanda Fernandez","email":"fernanda@tiendareact.com","puesto":"Diseño UX/UI","foto":"https://i.pravatar.cc/240?img=47"},
+  {"id":"3","nombre":"Gonzalo Gonzalez","email":"gonzalo@tiendareact.com","puesto":"Desarrollo web","foto":"https://i.pravatar.cc/240?img=33"}
+]

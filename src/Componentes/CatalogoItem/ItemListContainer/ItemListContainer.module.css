@@ -1,0 +1,7 @@
+.contenedor { width:100%; max-width:1180px; margin:0 auto; padding:3.5rem 1.25rem 2.5rem; }
+.encabezado { text-align:center; max-width:720px; margin:0 auto 2rem; }
+.eyebrow { color:#a78bfa; font-size:.75rem; font-weight:800; letter-spacing:.18em; margin-bottom:.65rem; }
+.titulo { color:#f8fafc; font-size:clamp(1.8rem,4vw,2.5rem); line-height:1.15; font-weight:800; letter-spacing:-.04em; margin:0 0 .85rem; }
+.subtitulo { color:#a5afc3; font-size:1rem; line-height:1.7; }
+.estado,.error { text-align:center; padding:2rem; color:#cbd5e1; }
+.error { color:#fca5a5; }

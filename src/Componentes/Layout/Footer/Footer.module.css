@@ -1,0 +1,17 @@
+.footer { margin-top:3rem; padding:3rem clamp(1rem,5vw,4rem) 1.25rem; background:#090e18; color:#a5afc3; border-top:1px solid #222b3d; }
+.equipo { max-width:1180px; margin:0 auto 3rem; }
+.encabezadoEquipo { text-align:center; }
+.eyebrow { color:#a78bfa; font-size:.72rem; letter-spacing:.16em; font-weight:800; margin-bottom:.6rem; }
+.tituloEquipo { color:#f8fafc; font-size:clamp(1.6rem,3vw,2rem); font-weight:800; margin:0 0 1rem; }
+.contenedor { max-width:1180px; margin:0 auto; display:grid; grid-template-columns:2fr 1fr 1.4fr; gap:2.5rem; padding-top:2rem; border-top:1px solid #222b3d; }
+.columna { min-width:0; }
+.tituloMarca { color:#f8fafc; font-size:1.35rem; margin-bottom:.8rem; font-weight:900; }
+.tituloMarca span { color:#a78bfa; }
+.subtitulo { color:#e2e8f0; font-size:.95rem; margin-bottom:.8rem; }
+.texto { color:#9ba6bb; font-size:.86rem; line-height:1.75; margin-bottom:.45rem; }
+.lista { list-style:none; padding:0; margin:0; }
+.lista li { margin-bottom:.55rem; }
+.lista a { color:#9ba6bb; text-decoration:none; font-size:.88rem; }
+.lista a:hover { color:#c4b5fd; }
+.copyright { text-align:center; border-top:1px solid #222b3d; margin-top:2rem; padding-top:1.2rem; font-size:.78rem; color:#68758c; }
+@media(max-width:700px) { .contenedor { grid-template-columns:1fr; gap:1.5rem; text-align:center; } }

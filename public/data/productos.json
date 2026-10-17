@@ -1,0 +1,8 @@
+[
+  {"id":"1","nombre":"Teclado mecánico RGB","precio":45000,"stock":15,"categoria":"Periféricos","urlImagen":"https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85"},
+  {"id":"2","nombre":"Mouse gamer inalámbrico","precio":28000,"stock":20,"categoria":"Periféricos","urlImagen":"https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85"},
+  {"id":"3","nombre":"Placa de video RTX","precio":650000,"stock":4,"categoria":"Componentes","urlImagen":"https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=900&q=85"},
+  {"id":"4","nombre":"Memoria RAM DDR5 16 GB","precio":75000,"stock":12,"categoria":"Componentes","urlImagen":"https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=900&q=85"},
+  {"id":"5","nombre":"SSD NVMe 1 TB","precio":110000,"stock":8,"categoria":"Almacenamiento","urlImagen":"https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=900&q=85"},
+  {"id":"6","nombre":"Auriculares gamer","precio":52000,"stock":10,"categoria":"Periféricos","urlImagen":"https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=85"}
+]
